@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "name": "Yuvraj yadav",
+      "email": "yyyuvraj1@gmail.com",
+      "designation": "dev",
+      "id": 1
+    },
+    {
+      "name": "ravi",
+      "email": "ravi@gmail.com",
+      "designation": "ips",
+      "id": 2
+    },
+    {
+      "name": "Manish",
+      "email": "manish@gmail.com",
+      "designation": "nalla ",
+      "id": 3
+    }
+  ]
+}
